@@ -42,8 +42,9 @@ This project presents a comprehensive *Healthcare Analysis Dashboard* built usin
 
 ---
 
-## 🤝 Connect with Me
 
+## 📬 Contact
 
-- 💼 [https://www.linkedin.com/in/samadhan-ahire-946592364/)
-- 📧 
+🔗 Connect With Me [ SAMADHAN AHIRE ]
+[https://www.linkedin.com/in/samadhan-ahire-946592364/] 
+Email: [samadhan0325@gmail.com]
